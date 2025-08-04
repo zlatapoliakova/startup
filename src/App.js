@@ -1,4 +1,5 @@
 import Content from "./components/content/Content";
+import Features from "./components/features/Features";
 import Header from "./components/header/Header";
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <>
       <Header/>
       <Content/>
+      <Features/>
     </>
   );
 }
