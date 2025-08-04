@@ -4,7 +4,8 @@ export default {
    theme: {
      extend: {
       backgroundImage: {
-        'header-bg': "url(/src/resources/img/header-bg.jpeg)"
+        'header-bg': "url(/src/resources/img/header-bg.jpeg)",
+        'content-bg': "url(/src/resources/img/content-bg.jpeg)"
       },
       colors: {
         'dark-blue': "#2e189385",
