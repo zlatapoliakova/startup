@@ -4,6 +4,7 @@ import Features from "./components/features/Features";
 import Form from "./components/form/Form";
 import Header from "./components/header/Header";
 import Testimonial from "./components/testimonial/Testimonial";
+import Works from "./components/works/Works";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Form/>
       <Testimonial/>
       <CallToAction/>
+      <Works/>
     </>
   );
 }
