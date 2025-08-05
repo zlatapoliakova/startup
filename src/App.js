@@ -1,3 +1,4 @@
+import CallToAction from "./components/callToAction/CallToAction";
 import Content from "./components/content/Content";
 import Features from "./components/features/Features";
 import Form from "./components/form/Form";
@@ -12,6 +13,7 @@ function App() {
       <Features/>
       <Form/>
       <Testimonial/>
+      <CallToAction/>
     </>
   );
 }

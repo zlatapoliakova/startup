@@ -7,7 +7,7 @@ export default {
         'header-bg': "url(/src/resources/img/header-bg.jpeg)",
         'content-bg': "url(/src/resources/img/content-bg.jpeg)",
         'features-bg': "url(/src/resources/img/features-bg.jpeg)",
-
+        'call-bg': "url(/src/resources/img/call-bg.jpg)",
       },
       colors: {
         'dark-blue': "#2e189385",
