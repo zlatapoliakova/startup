@@ -6,11 +6,16 @@ export default {
       backgroundImage: {
         'header-bg': "url(/src/resources/img/header-bg.jpeg)",
         'content-bg': "url(/src/resources/img/content-bg.jpeg)",
-        'features-bg': "url(/src/resources/img/features-bg.jpeg)"
+        'features-bg': "url(/src/resources/img/features-bg.jpeg)",
+
       },
       colors: {
         'dark-blue': "#2e189385",
-        'bright-blue': "#482BE7"
+        'bright-blue': "#482BE7",
+        'light-blue': "#1DA1F2",
+        'turquoise': "#25DAC5",
+        'dark-dark-blue': "#1E0E62",
+        'light-grey': "rgba(21,20,57,0.40)"
       }
      },
    },

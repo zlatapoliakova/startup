@@ -1,3 +1,4 @@
+import Button from '../button/Button';
 import nextArrow from './next.svg';
 import previousArrow from './previous.svg'
 
@@ -29,7 +30,7 @@ const Header = () => {
                         <div className='header-round'></div>
                     </div>
 
-                    <button className='w-[230px] rounded-xl bg-bright-blue px-[35px] py-[15px] mt-[58px] m-auto'>Create an Account</button>
+                    <Button text="Create an Account" color="bg-bright-blue" marginTop="mt-[58px]" width="230px" />
                 </div>
                 <img className='w-[20px] h-[45px]' src={nextArrow} alt="Next" />
             </div>

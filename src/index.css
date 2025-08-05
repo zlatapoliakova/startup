@@ -17,6 +17,11 @@
   background: #fff;
 }
 
+.active-tab {
+  color: #1E0E62;
+  border-bottom: 3px solid #1E0E62;
+}
+
 * {
   margin: 0;
   padding: 0;
