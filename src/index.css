@@ -11,6 +11,23 @@
     border-radius: 100%;
     border: 2px solid #fff;
   }
+  .contact-label {
+    display: block;
+    color:#1E0E62;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 26px;
+    text-transform: uppercase;
+  }
+  .contact-input {
+    margin-top: 6px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    width: 100%;
+    padding: 12px 24px;
+    border: 2px solid #EBEAED;
+  }
 }
 
 .active {
