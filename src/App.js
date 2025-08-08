@@ -2,6 +2,7 @@ import CallToAction from "./components/callToAction/CallToAction";
 import Contact from "./components/contact/Contact";
 import Content from "./components/content/Content";
 import Features from "./components/features/Features";
+import Footer from "./components/footer/Footer";
 import Form from "./components/form/Form";
 import Header from "./components/header/Header";
 import Prices from "./components/prices/Prices";
@@ -22,6 +23,7 @@ function App() {
       <Team/>
       <Contact/>
       <Prices/>
+      <Footer/>
     </>
   );
 }
