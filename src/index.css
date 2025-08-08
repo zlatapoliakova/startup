@@ -39,6 +39,11 @@
   border-bottom: 3px solid #1E0E62;
 }
 
+.active-btn {
+  background: #E93A7D;
+  border: none;
+}
+
 * {
   margin: 0;
   padding: 0;

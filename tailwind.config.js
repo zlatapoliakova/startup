@@ -9,6 +9,7 @@ export default {
         'features-bg': "url(/src/resources/img/features-bg.jpeg)",
         'call-bg': "url(/src/resources/img/call-bg.jpg)",
         'contact-bg': "url(/src/resources/img/contact-bg.jpg)",
+        'prices-bg': "url(/src/resources/img/prices-bg.jpg)"
       },
       colors: {
         'dark-blue': "#2e189385",
